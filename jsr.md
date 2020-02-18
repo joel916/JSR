@@ -1,10 +1,15 @@
-<html>
-	<head>
-        <meta charset="utf-8">
-	</head>
-    <body>
-        <h1>JSR</h1>
-        <p>JSR은 장충중학교 노동부이다.<br>노동부장관은 고진홍.<br></p>
-        <img src="https://edudonga.com/data/article/1705/c80792a085789c792d6648fe8aeced79_1495068311_8199.JPG">
-    </body>
-</html>
+# JSR에 대하여
+### 목차
+1. JSR이란?
+2. JSR의 수장은?
+3. JSR에서는 무엇을 하는가?
+***
+## 1.JSR이란?
+JSR은 서울특별시 중구에 위치한 장충중학교의 소프트웨어 동아리다. JSR은 **J**angchung **S**oftware & **R**obot club의 약자이다.~~쓸데없이 길다...~~
+
+## 2. JSR의 수장은?
+JSR의 수장은 **고진홍**이다. 현재 장충중학교에서 수학 교사로도 활동하고 있다.
+고진홍의 ~~잘생긴~~ 얼굴을 보고 싶다면 [이곳](http://m.edu.donga.com/news/view.php?at_no=20170518094909105512#_enliple)으로 가라.
+
+## 3. JSR에서는 무엇을 하는가?
+사람들은 흔히 JSR의 이름 때문에 소프트웨어와 관련된 활동을 한다고 생각한다. 그러나 **전혀 아니다!** JSR에서는 학생들 모두가 단순노동을 한다 (~~Jinhong Slave Room~~). 그러다 보니 학생들은 자연스럽게 노동을 배우게 된다.
