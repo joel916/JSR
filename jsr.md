@@ -1,6 +1,5 @@
 <html>
 	<head>
-        <title>JSR website</title>
         <meta charset="utf-8">
 	</head>
     <body>
