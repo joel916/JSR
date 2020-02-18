@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# JSR에 대하여
+### 목차
+1. JSR이란?
+2. JSR의 수장은?
+3. JSR에서는 무엇을 하는가?
+***
+## 1.JSR이란?
+JSR은 서울특별시 중구에 위치한 장충중학교의 소프트웨어 동아리다. JSR은 **J**angchung **S**oftware & **R**obot club의 약자이다.~~쓸데없이 길다...~~
 
-You can use the [editor on GitHub](https://github.com/joel916/JSR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 2. JSR의 수장은?
+JSR의 수장은 **고진홍**이다. 현재 장충중학교에서 수학 교사로도 활동하고 있다.
+고진홍의 ~~잘생긴~~ 얼굴을 보고 싶다면 [이곳](http://m.edu.donga.com/news/view.php?at_no=20170518094909105512#_enliple)으로 가라.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joel916/JSR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 3. JSR에서는 무엇을 하는가?
+사람들은 흔히 JSR의 이름 때문에 소프트웨어와 관련된 활동을 한다고 생각한다. 그러나 **전혀 아니다!** JSR에서는 학생들 모두가 단순노동을 한다 (~~Jinhong Slave Room~~). 그러다 보니 학생들은 자연스럽게 노동을 배우게 된다.
