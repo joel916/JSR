@@ -23,6 +23,6 @@
         <h2>JSR의 멤버는?<2019년 기준)</h2>
         <p>JSR의 멤버는 총 19명이다. 수장 1명, 회장 1명, 부회장 1명, 부원 16명으로 구성되어있다. 수장은 고진홍, 회장은 김원영, 부회장은 김한울이다.(<del>사실 모두가 공평하게 노동을 한다</del>)</p>
         <h2>JSR의 특징은?</h2>
-        <p>JSR은 단톡방을 보유하고 있다.(<del>사실상 친목방이ㄷ..</del>)<br>고진홍은 (자칭)미남이다.<br><img src="https://edudonga.com/data/article/1705/c80792a085789c792d6648fe8aeced79_1495068311_8199.JPG"<br>JSR신입부원(<del>신입노예</del>)를 선발하는 면접을 진행할 때 노예계약서를 강제로 작성시킨다.<br>JSR은 거의 <a href="http://www.thebasket.co.kr/">더바스켓</a>으로만 회식을 간다. 아주 가끔씩 <a href="http://ungteori1.com/">엉터리 생고기</a>로 회식을 가기도 한다.(하지만 돈은 부원이 낸다...)</p>
+        <p>JSR은 단톡방을 보유하고 있다.(<del>사실상 친목방이ㄷ..</del>)<br>고진홍은 (자칭)미남이다.<br><img src="https://edudonga.com/data/article/1705/c80792a085789c792d6648fe8aeced79_1495068311_8199.JPG"><br>JSR신입부원(<del>신입노예</del>)를 선발하는 면접을 진행할 때 노예계약서를 강제로 작성시킨다.<br>JSR은 거의 <a href="http://www.thebasket.co.kr/">더바스켓</a>으로만 회식을 간다. 아주 가끔씩 <a href="http://ungteori1.com/">엉터리 생고기</a>로 회식을 가기도 한다.(하지만 돈은 부원이 낸다...)</p>
     </body>
 </html>
