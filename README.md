@@ -3,8 +3,11 @@
         <meta charset="utf-8">
         <style>
             #jinhong {
-                margin:30px;
                 border:10px ridge red;
+            }
+            h2 {
+                padding-top:2px;
+                padding-bottom:2px;
             }
         </style>
     </head>
