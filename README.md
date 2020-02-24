@@ -6,8 +6,8 @@
                 border:10px ridge red;
             }
             h2 {
-                padding-top:5px;
-                padding-bottom:5px;
+                border-top:5px solid rgb(222,222,222);
+                border-bottom:5px solid rgb(222,222,222);
             }
         </style>
     </head>
