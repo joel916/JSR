@@ -6,8 +6,8 @@
                 border:10px ridge red;
             }
             padding {
-                padding-top:5px
-                padding-bottom:5px
+                padding-top:5px;
+                padding-bottom:5px;
                 border-bottom:2px solid rgb(222,222,222);
             }
         </style>
